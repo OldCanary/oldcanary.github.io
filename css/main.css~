@@ -1,6 +1,4 @@
 body {
 	background-color: #F3E2A9;
-	background-image: url("mcs_split2.gif");
-	background-repeat: repeat;
 	}
 	
