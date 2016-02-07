@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Stories of MCS</title>
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="css/main.css">
+	</head>
+	<body>
+	<p>MCS was actually on a <a href="http://www.tvacres.com/diseases_ailments_multiple.htm" target="_blank">Northern Exposure</a> episode.</p>
+	<p>Discover Magazine has an <a href="http://discovermagazine.com/2013/nov/13-allergic-life">article</a> on MCS/TILT from the November 2013 issue.</p>
+	
+		<p><a href="index.html">Home</a></p>
+	</body>
+</html>
