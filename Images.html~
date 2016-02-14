@@ -18,7 +18,10 @@
 		<img src="images/memory.jpg" alt="memory problems">
 		<p>These are scary costumes to me.</p>
 		<img src="images/scary.jpg" alt="Scary Costumes">
-		<p><a href="index.html">Back to the main page.</a></p>
+		<p>A blog post with signs that are <a href="https://lindasepp.wordpress.com/2016/02/07/what-do-you-think-about-accommodating-someone-with-mcses-or-allergies/" target="_blank">Well said</a></p>
+		<p>This is how Saturdays usually look to me</p>
+		<img src="images/yesterday.jpg" alt="tired minion">
+		<p><h2><a href="index.html">Back to the main page.</a></h2></p>
 	
 	</body>
 </html>
