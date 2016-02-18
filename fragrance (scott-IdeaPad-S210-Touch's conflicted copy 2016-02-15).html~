@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Fragrance information</title>
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="css/main.css">
+	</head>
+	<body>
+		<p><a href="http://www.womensvoices.org/2015/12/10/toxic-chemicals-found-in-fragrance/" target="_blank">What</a> is in your fragrances?</p>
+		<p>The fragrance industry has <a href="http://www.ifraorg.org/en-us/ingredients" target="_blank">published</a> a list of chemicals commonly used in fragrances. Are you ok with wearing these?</p>
+		<p>A BBC article on <a href="http://www.bbc.com/news/magazine-35281338" target="_blank">fragrances</a></p>   
+		<p>Here is a Youtube <a href="https://www.youtube.com/watch?v=GsZizyL_Llc&feature=youtu.be" target="_blank">PSA</a> about fragrances and the problems they cause.</p>
+		<p>Can fragrances cause <a href="http://www.nydailynews.com/life-style/health/scented-candles-cleaning-products-release-cancerous-agents-article-1.2500627" target="_blank">cancer?</a></p>
+		<p>Here is another article from <a href="http://www.msn.com/en-us/health/medical/new-study-finds-scented-candles-and-air-fresheners-pose-dangerous-health-risks/ar-AAdX6dD" target="_blank">MSN.</a></p>
+		<p>Are fragrance manufacturers watching out for <a href="http://www.fairwarning.org/2016/01/doubts-raised-about-chemical-stew-in-fragrances-used-in-consumer-products/" target="_blank">the consumer?</a></p>
+		<p><h2><a href="index.html">Home</a></h2></p>
+	</body>
+</html>
