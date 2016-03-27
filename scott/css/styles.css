@@ -1,0 +1,367 @@
+/**html5doctor.com Reset Stylesheet v1.6.1 (http://html5doctor.com/html-5-reset-stylesheet/) * Richard Clark (http://richclarkdesign.com) * http://cssreset.com */
+
+html, span, object, iframe,h1, h2, h3, h4, h5, h6, p, 
+blockquote, pre,abbr, address, cite, code,del, dfn, em, img, ins, 
+kbd, q, samp,small, strong, sub, sup, var,b, i,dl, dt, dd, ol, ul, 
+li,fieldset, form, label, legend,table, caption, tbody, tfoot, 
+thead, tr, th, td,article, aside, canvas, details, figcaption, 
+figure,footer, header, hgroup, menu, nav, section, summary,time, 
+mark, audio, video 
+{    
+    margin:0;    
+    padding:0;    
+    border:0;    
+    outline:0;        
+    vertical-align:baseline;  
+    background:transparent;
+}
+body 
+{    
+    line-height: 1.2;
+    width: 100%;
+    color: #052545;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11pt;
+    background-color: #ffffff;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+article,aside,details,figcaption,figure,footer,
+header,hgroup,menu,nav,section 
+{    
+    display:block;
+}
+nav ul 
+{    
+    list-style:none;
+}
+blockquote, q 
+{    
+    quotes:none;
+}
+blockquote:before, 
+blockquote:after,
+q:before, 
+q:after 
+{    
+    content:'';    
+    content:none;
+}
+a 
+{    
+    margin:0;    
+    padding:0;    
+    font-size:100%;    
+    vertical-align:baseline;    
+    background:transparent;
+}
+a:link
+{
+	color: #604f3b;
+}
+a:visited
+{
+	color: #604f3b;
+}
+a:hover
+{
+	color: #e4c069;
+    text-decoration: underline;
+}
+a.smaller:link
+{
+	color: #437999;
+    font-size: 12px;
+}
+a.smaller:visited
+{
+	color: #437999;
+    font-size: 12px;
+}
+a.smaller:hover
+{
+	color: #000cbc;
+    font-size: 12px;
+    text-decoration: underline;
+}
+a.footer:link
+{
+	color: #000000;
+    font-size: 12px;
+    font-weight: bold;
+}
+a.footer:visited
+{
+	color: #000000;
+    font-size: 12px;
+    font-weight: bold;
+}
+a.footer:hover
+{
+	color: #676767;
+    font-size: 12px;
+    text-decoration: underline;
+    font-weight: bold;
+}
+hr 
+{ 
+    display: block;
+    margin-top: 0;
+    margin-bottom: 3px;
+    margin-left: auto;
+    margin-right: auto;
+    border-width: 750px;
+    color: #b2b2b2;
+}
+.title
+{
+	font-size: 14pt;
+	color: #6f5c45;
+    font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+    text-align: left;
+    line-height: 1.6em;
+}
+
+#header
+{ 
+    width: 1000px; 
+    height: 118px; 
+    padding: 0px; 
+    margin: 0px;
+    margin-right: auto;
+    margin-left: auto;
+ }
+  
+#homebanner
+{    
+    height: 529px;
+    width: 1000px;
+    padding: 0px; 
+    margin: 0px;
+    margin-right: auto;
+    margin-left: auto;        
+}
+
+#banner
+{    
+    z-index: 0; 
+    background: url("../images/banner.png") no-repeat; 
+    background-position: center 118px; 
+    background-color: #ffffff;
+    background-attachment: scroll;        
+}
+#homecontent
+{    
+    width: 1000px;
+    padding: 0px; 
+    margin: 0px;
+    margin-right: auto;
+    margin-left: auto;        
+}
+#yellowfooter
+{    
+    height: 150px;
+    background-color: #e4c069;
+    padding: 0px;
+    margin: 0 0 200px 0px;
+    margin-right: auto;
+    margin-left: auto;        
+}
+#yellowline
+{    
+    height: 15px;
+    background-color: #e4c069;
+    padding: 0px;
+    margin: 0;
+    margin-right: auto;
+    margin-left: auto;        
+}
+.help
+{
+	font-size: 12pt;
+    font-family: Times New Roman, Times, serif;
+	color: #0a0723;
+	font-weight: bold;
+    text-align: right;
+    line-height: 1.6em;
+}
+#navbar
+{
+	margin-right: auto;
+    margin-left: auto;
+    height: 50px;
+    width: 1000px;
+}
+#picture
+{
+	float: left;
+    border: #e4c069 solid 4px 4px 4px 4px;
+    margin: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 2em;
+}
+li.current 
+{
+    border:1px solid #fff; 
+    background:#6f8edd;
+}
+li#content 
+{
+    width:947px; 
+    height:311px; 
+    padding:15px 8px 15px 18px
+}
+#middlecontent
+{
+    margin-right: auto;
+    margin-left: auto;
+    width: 1000px;
+    height: 161px;
+    overflow: hidden;
+    background: url("http://www.brandyborges.com/scott/images/verse.png") no-repeat;
+   	background-color: #061a34;
+}
+.middlecontent
+{
+	color: #ffffff;
+    font-family: Times New Roman, Times, serif;
+	font-weight: bold;
+    text-align: center;
+    line-height: 1.3em; 
+    font-size: 18pt;
+}
+.smaller
+{
+    font-family: Times New Roman, Times, serif;
+    text-align: left;
+    font-size: 12pt;
+}	 
+#threepics
+{
+	background-color: #061a34;
+    margin-right: auto;
+    margin-left: auto;
+    width: 1000px;
+    height: 190px;
+}
+#ending
+{
+	background-color: #061a34;
+    margin-right: auto;
+    margin-left: auto;
+    width: 1000px;
+    height: 70px;
+}
+.ending 
+{
+    text-align: center;
+    color: #ffffff;
+    font-size: 9px;
+}
+#maincontent
+{
+    padding: 25px 25px 30px 35px; 
+    text-align: left; 
+    background-color: #fafaed; 
+    border: solid 4px #9cc0d1; 
+    min-height: 700px;
+
+    
+/* change colours to suit your needs */
+}
+ins 
+{    
+    background-color:#ff9;    
+    color:#000;    
+    text-decoration:none;
+/* change colours to suit your needs */
+
+
+}
+#Mmain
+{
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;    
+}
+#Mbuttons
+{
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+}
+#mobile 
+{    
+    line-height:1;
+    width: 100%;
+    color: #02101e;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12pt;
+    background-color: #ffffff;
+    max-width: 100%;
+    overflow-x: hidden;
+    margin-right: auto;
+    margin-left: auto;
+}
+a.mobile:link
+{
+	color: #ff0000;
+    font-size: 26px;
+    text-align: center;
+}
+a.mobile:visited
+{
+	color: #061a34;
+    font-size: 26px;
+    text-align: center;
+}
+a.mobile:hover
+{
+	color: #1458af;
+    font-size: 26px;
+    text-decoration: underline;
+    text-align: center;
+}
+mark 
+{    
+    background-color:#ff9;    
+    color:#000;    
+    font-style:italic;    
+    font-weight:bold;
+}
+del 
+{    
+    text-decoration: 
+    line-through;
+}
+abbr[title], dfn[title] 
+{   
+    border-bottom:1px dotted;    
+    cursor:help;
+}
+    table 
+{    
+    border-collapse:collapse;    
+    border-spacing:0;
+}
+
+/* change border colour to suit your needs */
+
+hr 
+{    
+    display:block;    
+    height:1px;    
+    border:0;    
+    border-top:1px solid #cccccc;    
+    margin:1em 0;    
+    padding:0;
+}
+input, select 
+{    
+    vertical-align:middle;
+}
+
+
+/* ]] */
