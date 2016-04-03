@@ -17,49 +17,7 @@
 <title>Chemically Injured</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
 <link href="css/styles.css" rel="stylesheet" type="text/css"/>
-<script type='text/javascript'>
-<!--
-	home = new Image();
-	home.src = "images/home.png";
-	homeOver = new Image();
-	homeOver.src = "images/homeOver.png";
-    
-    about = new Image();
-	about.src = "images/about.png";
-	aboutOver = new Image();
-	aboutOver.src = "images/aboutOver.png";
-    
-    linking = new Image();
-	linking.src = "images/linking.png";
-	linkingOver = new Image();
-	linkingOver.src = "images/linkingOver.png";
-    
-    contact = new Image();
-	contact.src = "images/contact.png";
-	contactOver = new Image();
-	contactOver.src = "images/contactOver.png";	
-    
-    what = new Image();
-	what.src = "images/what.png";
-	whatOver = new Image();
-	whatOver.src = "images/whatOver.png";
-    
-    pictures = new Image();
-	pictures.src = "images/pictures.png";
-	picturesOver = new Image();
-	picturesOver.src = "images/picturesOver.png";
-    
-    can = new Image();
-	can.src = "images/can.png";
-	canOver = new Image();
-	canOver.src = "images/canOver.png";
-	
-	medalert = new Image();
-	medalert.src = "images/Medical.jpeg";
-	medalertOver = new Image();
-	medalertOver.src = "images/Medical.jpeg";
-// -->
-</script>
+
 </head>
 <body>
 <div id="banner">
