@@ -1,0 +1,719 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://www.brandyborges.com/xmlrpc.php">
+
+<title>Brandyoldfashion &#8211; One Day at a Time</title>
+<!--[if lt IE 9]>
+<script src="http://www.brandyborges.com/wp-content/themes/unite.1.5.9/unite/inc/js/html5shiv.min.js"></script>
+<script src="http://www.brandyborges.com/wp-content/themes/unite.1.5.9/unite/inc/js/respond.min.js"></script>
+<![endif]-->
+<link rel="alternate" type="application/rss+xml" title="One Day at a Time &raquo; Feed" href="index.html?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="One Day at a Time &raquo; Comments Feed" href="index.html?feed=comments-rss2" />
+<link rel="alternate" type="application/rss+xml" title="One Day at a Time &raquo; Posts by Brandyoldfashion Feed" href="index.html?feed=rss2&amp;author=1" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.brandyborges.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.2"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d"),f=String.fromCharCode;return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(f(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(f(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(f(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(f(55357,56835),0,0):e.fillText(f(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='cff-css'  href='wp-content/plugins/custom-facebook-feed/css/cff-style.css?ver=2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='cff-font-awesome-css'  href='https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css?ver=4.5.0' type='text/css' media='all' />
+<link rel='stylesheet' id='sb_instagram_styles-css'  href='wp-content/plugins/instagram-feed/css/sb-instagram.css?ver=1.3.11' type='text/css' media='all' />
+<link rel='stylesheet' id='sb_instagram_icons-css'  href='http://netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css?1&amp;ver=4.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='ssbaFont-css'  href='http://fonts.googleapis.com/css?family=Indie+Flower&amp;ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-polls-css'  href='wp-content/plugins/wp-polls/polls-css.css?ver=2.72' type='text/css' media='all' />
+<style id='wp-polls-inline-css' type='text/css'>
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 6px;
+	line-height: 8px;
+	height: 8px;
+	background-image: url('wp-content/plugins/wp-polls/images/default/pollbg.gif');
+	border: 1px solid #c8c8c8;
+}
+
+</style>
+<link rel='stylesheet' id='unite-bootstrap-css'  href='wp-content/themes/unite.1.5.9/unite/inc/css/bootstrap.min.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='unite-icons-css'  href='wp-content/themes/unite.1.5.9/unite/inc/css/font-awesome.min.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='unite-style-css'  href='wp-content/themes/unite.1.5.9/unite/style.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='A2A_SHARE_SAVE-css'  href='wp-content/plugins/add-to-any/addtoany.min.css?ver=1.12' type='text/css' media='all' />
+<script type='text/javascript' src='wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='wp-content/themes/unite.1.5.9/unite/inc/js/bootstrap.min.js?ver=4.4.2'></script>
+<script type='text/javascript' src='wp-content/themes/unite.1.5.9/unite/inc/js/main.min.js?ver=4.4.2'></script>
+<link rel='https://api.w.org/' href='index.html?rest_route=%252F' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.4.2" />
+
+<script type="text/javascript"><!--
+var a2a_config=a2a_config||{},wpa2a={done:false,html_done:false,script_ready:false,script_load:function(){var a=document.createElement('script'),s=document.getElementsByTagName('script')[0];a.type='text/javascript';a.async=true;a.src='http://static.addtoany.com/menu/page.js';s.parentNode.insertBefore(a,s);wpa2a.script_load=function(){};},script_onready:function(){wpa2a.script_ready=true;if(wpa2a.html_done)wpa2a.init();},init:function(){for(var i=0,el,target,targets=wpa2a.targets,length=targets.length;i<length;i++){el=document.getElementById('wpa2a_'+(i+1));target=targets[i];a2a_config.linkname=target.title;a2a_config.linkurl=target.url;if(el){a2a.init('page',{target:el});el.id='';}wpa2a.done=true;}wpa2a.targets=[];}};a2a_config.callbacks=a2a_config.callbacks||[];a2a_config.callbacks.push({ready:wpa2a.script_onready});a2a_config.templates=a2a_config.templates||{};
+//--></script>
+
+<link rel="stylesheet" href="wp-content/plugins/count-per-day/counter.css" type="text/css" />
+<style type="text/css">	.ssba {
+									
+									
+									
+									
+								}
+								.ssba img
+								{
+									width: 35px !important;
+									padding: 6px;
+									border:  0;
+									box-shadow: none !important;
+									display: inline !important;
+									vertical-align: middle;
+								}
+								.ssba, .ssba a
+								{
+									text-decoration:none;
+									border:0;
+									background: none;
+									font-family: Indie Flower;
+									font-size: 	20px;
+									
+									
+								}</style><style type="text/css">.entry-content {font-family: times; font-size:15px; font-weight: normal; color:#000000;}</style><style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style><style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url('wp-content/uploads/2015/04/bg3.png'); background-repeat: no-repeat; background-position: top left; background-attachment: fixed; }
+</style>
+
+</head>
+
+<body class="archive author author-brandyoldfashion author-1 custom-background">
+<div id="page" class="hfeed site">
+	<div class="container">
+				<header id="masthead" class="site-header col-sm-12" role="banner">
+
+				<div class="site-branding col-md-6">
+					
+					
+						<h1 class="site-title"><a href="index.html" rel="home">One Day at a Time</a></h1>
+						<h4 class="site-description">One hour at a time, one minute at a time, one second at a time</h4>
+
+									</div>
+
+			<div class="social-header col-md-6">
+				<div id="social" class="social"></div>			</div>
+
+		</header><!-- #masthead -->
+	</div>
+		<nav class="navbar navbar-default" role="navigation">
+			<div class="container">
+		        <div class="navbar-header">
+		            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+		                <span class="sr-only">Toggle navigation</span>
+		                <span class="icon-bar"></span>
+		                <span class="icon-bar"></span>
+		                <span class="icon-bar"></span>
+		            </button>
+
+		        </div>
+
+				<div class="collapse navbar-collapse navbar-ex1-collapse"><ul id="menu-top-menu" class="nav navbar-nav"><li id="menu-item-97" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-97"><a title="Home" href="index.html">Home</a></li>
+<li id="menu-item-90" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-90"><a title="Blog Posts" href="index.html?page_id=81">Blog Posts</a></li>
+<li id="menu-item-91" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-91"><a title="Family Dynamic" href="index.html?p=27">Family Dynamic</a></li>
+<li id="menu-item-92" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92"><a title="Health Issues" href="index.html?p=35">Health Issues</a></li>
+<li id="menu-item-93" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93"><a title="My Faith" href="index.html?p=20">My Faith</a></li>
+<li id="menu-item-118" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118"><a title="Poetry" href="index.html?p=116">Poetry</a></li>
+<li id="menu-item-94" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-94 dropdown"><a title="Projects" href="index.html?author=1#" data-toggle="dropdown" class="dropdown-toggle">Projects <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-673" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-673"><a title="A New Room" href="index.html?p=659">A New Room</a></li>
+	<li id="menu-item-629" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-629"><a title="End Table" href="index.html?p=626">End Table</a></li>
+	<li id="menu-item-212" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-212"><a title="Wind Chimes" href="index.html?p=208">Wind Chimes</a></li>
+</ul>
+</li>
+</ul></div>		    </div>
+		</nav><!-- .site-navigation -->
+
+	<div id="content" class="site-content container">
+	<section id="primary" class="content-area col-sm-12 col-md-8 pull-left">
+		<main id="main" class="site-main" role="main">
+
+		
+			<header class="page-header">
+				<h1 class="page-title">
+					Author: <span class="vcard">Brandyoldfashion</span>				</h1>
+							</header><!-- .page-header -->
+
+						
+				
+<article id="post-711" class="post-711 post type-post status-publish format-standard hentry category-rant tag-cede tag-one tag-two">
+	<header class="entry-header page-header">
+
+		<a href="index.html?p=711" title="Disgust"></a>
+
+		<h1 class="entry-title"><a href="index.html?p=711" rel="bookmark">Disgust</a></h1>
+
+				<div class="entry-meta">
+			<span class="posted-on"><i class="fa fa-calendar"></i> <a href="index.html?p=711" rel="bookmark"><time class="entry-date published" datetime="2016-03-01T00:18:40+00:00">March 1, 2016</time></a></span><span class="byline"> <i class="fa fa-user"></i> <span class="author vcard"><a class="url fn n" href="index.html?author=1">Brandyoldfashion</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+
+					<p>I just have no respect for people who are dumb.<br />
+I&#8217;m sorry if I&#8217;m being a bit harsh here&#8230; no, no I&#8217;m not.</p>
+<p>Why does this society tolerate people who are rude, uneducated and have nothing to contribute to society?<br />
+1. Attitude. I have met people who were not model gorgeous, didn&#8217;t have a college degree and didn&#8217;t come from an affluent home, and they have impressed me incredibly. They were humble, respectful, polite and positive. I have taught my boys to respect everyone, especially authority, and they&#8217;re already experiencing the advantages. You will get nowhere in life if you have a bad attitude. You could be the most talented, smartest person, but if you are rude &#8211; you&#8217;re going nowhere. I approach everyone with respect. If you are rude to me, I will bury you. You then become insignificant to me.</p>
+<p>2. Uneducated. I don&#8217;t expect everyone that I talk to to have a Masters degree. I do, however, expect 3rd grade grammar and spelling from adults. Maybe you didn&#8217;t finish high-school, maybe you didn&#8217;t have the opportunity to have a great English teacher. I am a HORRIBLE speller, but, there is spell-check everywhere. I use it. When I&#8217;m not able to use spell-check, I spell a word wrong and someone brings it to my attention, I learn how to spell the word and don&#8217;t misspell it again. It frustrates me to no end when someone doesn&#8217;t know the difference between something like &#8220;to, two and too&#8221; or &#8220;know and no&#8221;, I take the time to correct them and teach them the correct word and they continue to live in their ignorance. All of us can improve&#8230; ALL OF US, but if you refuse to have basic grammar or spelling skills, you would be wise to stay away from me.</p>
+<p>3. Worthless. My 2 oldest sons have had to move a few times over the past years. Moving sucks. Did you know that within a month of looking for a job, my boys were interviewed, hired and working each and every time? I&#8217;ll let you in on a secret: they made an effort and looked for a job. There has never been a time in my life when I was able to work and needed money, that I was not able to find a job, or 2 or 3. I also have no respect for parents that don&#8217;t take care of their kids. I&#8217;m dealing with one now &#8211; Cede. If you can&#8217;t put yourself aside and be there for your child, then why did you have one? Contribute to society and don&#8217;t expect handouts, you don&#8217;t deserve them. I can&#8217;t work, but I am nowhere near worthless. I raise my kids, I contribute to several groups (EDS), help others with my computer knowledge when asked, crochet things for others, sing in my church&#8217;s choir&#8230; and that&#8217;s what I can think of off the top of my head. I may be in my bed for a good percentage of my day, but I&#8217;m not dead. I&#8217;m also far from worthless.</p>
+<p>Eat some humble pie, you&#8217;re not all that. If you know you have a weakness in an area, work on it. Get off your lazy butt and do something. As I&#8217;m growing older, I&#8217;m not as patient with idiots as I used to be.<br />
+I call this growth.</p>
+<div class="addtoany_share_save_container addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_1"><a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fwww.brandyborges.com%2F%3Fp%3D711&amp;linkname=Disgust" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fwww.brandyborges.com%2F%3Fp%3D711&amp;linkname=Disgust" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fwww.brandyborges.com%2F%3Fp%3D711&amp;linkname=Disgust" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_button_pinterest" href="http://www.addtoany.com/add_to/pinterest?linkurl=http%3A%2F%2Fwww.brandyborges.com%2F%3Fp%3D711&amp;linkname=Disgust" title="Pinterest" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a>
+<script type="text/javascript"><!--
+if(wpa2a)wpa2a.script_load();
+//--></script>
+</div></div>		
+			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta">
+								<span class="cat-links"><i class="fa fa-folder-open-o"></i>
+				 <a href="index.html?cat=17" rel="category">Rant</a>			</span>
+			
+						<span class="tags-links"><i class="fa fa-tags"></i>
+				 <a href="index.html?tag=cede" rel="tag">Cede</a>, <a href="index.html?tag=one" rel="tag">One</a>, <a href="index.html?tag=two" rel="tag">Two</a>			</span>
+					
+				<span class="comments-link"><i class="fa fa-comment-o"></i><a href="index.html?p=711#respond">Leave a comment</a></span>
+		
+			</footer><!-- .entry-meta -->
+	<hr class="section-divider">
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-707" class="post-707 post type-post status-publish format-standard hentry category-family category-health tag-cede tag-family tag-health tag-three">
+	<header class="entry-header page-header">
+
+		<a href="index.html?p=707" title="Sleep, Anger and French Toast"></a>
+
+		<h1 class="entry-title"><a href="index.html?p=707" rel="bookmark">Sleep, Anger and French Toast</a></h1>
+
+				<div class="entry-meta">
+			<span class="posted-on"><i class="fa fa-calendar"></i> <a href="index.html?p=707" rel="bookmark"><time class="entry-date published" datetime="2016-02-27T11:18:41+00:00">February 27, 2016</time><time class="updated" datetime="2016-02-27T11:22:12+00:00">February 27, 2016</time></a></span><span class="byline"> <i class="fa fa-user"></i> <span class="author vcard"><a class="url fn n" href="index.html?author=1">Brandyoldfashion</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+
+					<p>I woke up Wednesday at 3:30 am. As of midnight last night (Friday night), I had slept a broken 4 1/2 hours total. My body feels hazy; when I turn my head I get dizzy and I can&#8217;t seem to stomach any food. But last night I was able to eat a few Ravioli&#8217;s from the casserole I made, and settle in at 3 am and drift off to wonderful sleep. I woke up so many times, but pushed the pain away and stayed so still in the darkness until my body relaxed and fell asleep again. I woke up this morning at 9. The sun was out and a cool breeze was coming through my window. I still feel&#8230; <em>off, b</em>ut I have a long day ahead and 6 hours is more sleep than the previous 2 nights and I&#8217;m thankful for every minute.<br />
+Yesterday was&#8230;. eventful, frustrating and long. Two bit my head off for not going out of my way to force Three to his last basketball game of the season where Cede said he <em>MIGHT</em> show up. Three had already planned to have 3 of his friends from school sleep over. Cede usually remembers to call Three every month&#8230; sometimes every other month. He took time out of his schedule to visit him for 5 days last year. I&#8217;m not making him cancel plans with his friends at the last minute to see a person that doesn&#8217;t care about him in the least.<br />
+I&#8217;m planning to go to the last game (he plays 2 today). I know I&#8217;ll be hurting for sitting through 1 game, but if your a <em>true</em> parent, you know that life isn&#8217;t about you.</p>
+<p>I got up and made Three and his 3 friends french toast this morning. He&#8217;s happy and joking and beautiful. I look at him as I&#8217;m sure he looks at himself and wonder what is <em>so wrong</em> with him that Cede left him ( and me and his 2 brothers). What did he do to deserve such pain? I will make sure that I do everything in my power to help him be happy and ok with himself. He&#8217;s worth it to me. I&#8217;ll love him enough for 2 people, just like I do for his brothers. We&#8217;re ok. We&#8217;re more than ok, we&#8217;re great.</p>
+<div class="addtoany_share_save_container addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_2"><a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fwww.brandyborges.com%2F%3Fp%3D707&amp;linkname=Sleep%2C%20Anger%20and%20French%20Toast" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fwww.brandyborges.com%2F%3Fp%3D707&amp;linkname=Sleep%2C%20Anger%20and%20French%20Toast" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fwww.brandyborges.com%2F%3Fp%3D707&amp;linkname=Sleep%2C%20Anger%20and%20French%20Toast" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_button_pinterest" href="http://www.addtoany.com/add_to/pinterest?linkurl=http%3A%2F%2Fwww.brandyborges.com%2F%3Fp%3D707&amp;linkname=Sleep%2C%20Anger%20and%20French%20Toast" title="Pinterest" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a></div></div>		
+			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta">
+								<span class="cat-links"><i class="fa fa-folder-open-o"></i>
+				 <a href="index.html?cat=13" rel="category">Family Dynamic</a>, <a href="index.html?cat=14" rel="category">Health Issues</a>			</span>
+			
+						<span class="tags-links"><i class="fa fa-tags"></i>
+				 <a href="index.html?tag=cede" rel="tag">Cede</a>, <a href="index.html?tag=family" rel="tag">Family</a>, <a href="index.html?tag=health" rel="tag">Health</a>, <a href="index.html?tag=three" rel="tag">Three</a>			</span>
+					
+				<span class="comments-link"><i class="fa fa-comment-o"></i><a href="index.html?p=707#respond">Leave a comment</a></span>
+		
+			</footer><!-- .entry-meta -->
+	<hr class="section-divider">
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-703" class="post-703 post type-post status-publish format-standard post-password-required hentry category-misc tag-rug tag-tina">
+	<header class="entry-header page-header">
+
+		<a href="index.html?p=703" title="Protected: Zombies"></a>
+
+		<h1 class="entry-title"><a href="index.html?p=703" rel="bookmark">Protected: Zombies</a></h1>
+
+				<div class="entry-meta">
+			<span class="posted-on"><i class="fa fa-calendar"></i> <a href="index.html?p=703" rel="bookmark"><time class="entry-date published" datetime="2016-02-25T10:30:32+00:00">February 25, 2016</time></a></span><span class="byline"> <i class="fa fa-user"></i> <span class="author vcard"><a class="url fn n" href="index.html?author=1">Brandyoldfashion</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+
+					<form class="protected-post-form" action="http://www.brandyborges.com/wp-login.php?action=postpass" method="post">
+<div class="row">
+<div class="col-lg-10">
+<p>This post is password protected. To view it please enter your password below:</p>
+<p>        <label for="pwbox-703">Password: </label></p>
+<div class="input-group">
+        <input class="form-control" value="" name="post_password" id="pwbox-703" type="password"><br />
+        <span class="input-group-btn"><button type="submit" class="btn btn-primary" name="submit" id="searchsubmit" vvalue="Submit">Submit</button><br />
+        </span>
+      </div>
+</p></div>
+</p></div>
+</form>
+<div class="addtoany_share_save_container addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_3"><a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fwww.brandyborges.com%2F%3Fp%3D703&amp;linkname=Protected%3A%20Zombies" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fwww.brandyborges.com%2F%3Fp%3D703&amp;linkname=Protected%3A%20Zombies" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fwww.brandyborges.com%2F%3Fp%3D703&amp;linkname=Protected%3A%20Zombies" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_button_pinterest" href="http://www.addtoany.com/add_to/pinterest?linkurl=http%3A%2F%2Fwww.brandyborges.com%2F%3Fp%3D703&amp;linkname=Protected%3A%20Zombies" title="Pinterest" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a></div></div>		
+			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta">
+								<span class="cat-links"><i class="fa fa-folder-open-o"></i>
+				 <a href="index.html?cat=18" rel="category">Miscellaneous</a>			</span>
+			
+						<span class="tags-links"><i class="fa fa-tags"></i>
+				 <a href="index.html?tag=rug" rel="tag">Rug</a>, <a href="index.html?tag=tina" rel="tag">tina</a>			</span>
+					
+		
+			</footer><!-- .entry-meta -->
+	<hr class="section-divider">
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-695" class="post-695 post type-post status-publish format-standard hentry category-family category-health category-rant tag-doctors tag-family tag-health tag-idiots tag-mr-right">
+	<header class="entry-header page-header">
+
+		<a href="index.html?p=695" title="STOP TELLING ME WHO I AM!"></a>
+
+		<h1 class="entry-title"><a href="index.html?p=695" rel="bookmark">STOP TELLING ME WHO I AM!</a></h1>
+
+				<div class="entry-meta">
+			<span class="posted-on"><i class="fa fa-calendar"></i> <a href="index.html?p=695" rel="bookmark"><time class="entry-date published" datetime="2016-02-20T14:32:07+00:00">February 20, 2016</time><time class="updated" datetime="2016-02-25T09:38:30+00:00">February 25, 2016</time></a></span><span class="byline"> <i class="fa fa-user"></i> <span class="author vcard"><a class="url fn n" href="index.html?author=1">Brandyoldfashion</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+
+					<p>I didn&#8217;t feel like talking to people and going into explaining EVERYTHING that was going on. I stopped posting on FB, I stopped writing in here. I pretty much just withdrew.<br />
+I&#8217;m allowed to do what I want. I&#8217;m allowed to be annoyed by people.</p>
+<p>Everyone has things happen in their life that they cannot control. Everyone gets pissed, frustrated and fed-up. I&#8217;ll go back and fill in a few things.</p>
+<p>Christmas was hard. For starters, I had no tree. I<em> LOVE</em> having a Christmas tree; I love putting up lights and stockings and I love sending Christmas cards. None of that happened this year. It was just beyond my control. Then, I asked not to be put in the same room as Mr. Right for the holidays. I asked for people to stand up for me and tell Mr. Right that he was wrong. I would imagine this would be a simple request since he thinks he&#8217;s a doctor and without knowing my symptoms, medication and details, he has told me that I am completely healthy and have nothing wrong with me. (and my kids didn&#8217;t inherit  my genetic syndrome either). It&#8217;s so funny how I duped the SSI system of the government &#8211; as if I can fake geneticists reports, doctors notes, blood-work and MRI results.<br />
+So I just didn&#8217;t want to be next to someone who is an idiot. (&#8220;Idiot: <span class="oneClick-link">an</span> <span class="oneClick-link oneClick-available">utterly</span> <span class="oneClick-link oneClick-available">foolish</span> <span class="oneClick-link">or</span> <span class="oneClick-link oneClick-available">senseless</span> <span class="oneClick-link oneClick-available">person.&#8221;) Who could blame me? So there was no Christmas. It was a wonderful display of who is actually in my corner.</span></p>
+<p><span class="oneClick-link oneClick-available">Then, I had my birthday. It&#8217;s really hard being 42 and having to live the life of a 79 yr old. I use a cane, I drive a motorized cart in Walmart. Do you know how hard it is to drive past old people shopping that are walking and lifting their groceries when I am half their age and cannot walk to the back of the store or lift a gallon of milk.</span></p>
+<p>Then&#8230; just a few weeks ago I lost the ability to open a can with a can opener. On the EDS support groups, it&#8217;s a line that&#8217;s drawn in the sand. Well, I&#8217;m past the line and I now own a shiny, electric can opener.</p>
+<p>Then, I started getting huge &#8220;loss of concentration&#8221; times. It&#8217;s hard enough being in bed 98% and not being able to read because my eyes feel the need to go crazy.<br />
+I won&#8217;t go into details, but the last straw on the list was backing into a parking spot that already contained a car. I was going slow and did no damage, but how could I not have seen a whole car? I was feeling SO independent being able to drive for 10 to 15 minutes by myself and now I have nothing. I made the decision to not drive (at least until these episodes end) and my boys have had to pick up the 1 to 2 times a week that I did drive.</p>
+<p>Then, I found out that I HAVE to see my doctor in Monroe, WI before he&#8217;ll prescribe me any more meds. He&#8217;s out of my HMO. I don&#8217;t have $400 to drop in cash for an appointment and my social worker refused to authorize the appointment. So now I&#8217;m in bed 100% of the time because I have <strong>no</strong> pain relief.</p>
+<p>Then, the doctor that I saw to discuss my confusion (who had never met me before) told me that I&#8217;m depressed and that&#8217;s why I&#8217;m having these episodes. I told her that just because I have things in my life that I cannot control does not make me run off a cliff to end my life. Of course I have stress. Of course I have pain, health problems, money problems and I&#8217;m raising 3 kids on my own. That doesn&#8217;t mean I need to add another medication. Ask my boys, ask my church family, ask the friends I talk to on a daily basis&#8230;. they&#8217;ll tell you. So if I take depression meds, how would that change anything? Then I&#8217;ll be happy and thrilled to spend my life in bed?</p>
+<p>I am so sick and tired of being labeled. I&#8217;m so tired of people asking me if I&#8217;m depressed. Go talk to my counselor that I see 2 x a month. I tell him everything. He&#8217;ll tell you I&#8217;m just fine.</p>
+<p>&nbsp;</p>
+<p>I think I&#8217;m done with my rant. I feel better &lt; sigh &gt;</p>
+<div class="addtoany_share_save_container addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_4"><a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fwww.brandyborges.com%2F%3Fp%3D695&amp;linkname=STOP%20TELLING%20ME%20WHO%20I%20AM%21" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fwww.brandyborges.com%2F%3Fp%3D695&amp;linkname=STOP%20TELLING%20ME%20WHO%20I%20AM%21" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fwww.brandyborges.com%2F%3Fp%3D695&amp;linkname=STOP%20TELLING%20ME%20WHO%20I%20AM%21" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_button_pinterest" href="http://www.addtoany.com/add_to/pinterest?linkurl=http%3A%2F%2Fwww.brandyborges.com%2F%3Fp%3D695&amp;linkname=STOP%20TELLING%20ME%20WHO%20I%20AM%21" title="Pinterest" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a></div></div>		
+			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta">
+								<span class="cat-links"><i class="fa fa-folder-open-o"></i>
+				 <a href="index.html?cat=13" rel="category">Family Dynamic</a>, <a href="index.html?cat=14" rel="category">Health Issues</a>, <a href="index.html?cat=17" rel="category">Rant</a>			</span>
+			
+						<span class="tags-links"><i class="fa fa-tags"></i>
+				 <a href="index.html?tag=doctors" rel="tag">Doctors</a>, <a href="index.html?tag=family" rel="tag">Family</a>, <a href="index.html?tag=health" rel="tag">Health</a>, <a href="index.html?tag=idiots" rel="tag">Idiots</a>, <a href="index.html?tag=mr-right" rel="tag">Mr. Right</a>			</span>
+					
+				<span class="comments-link"><i class="fa fa-comment-o"></i><a href="index.html?p=695#respond">Leave a comment</a></span>
+		
+			</footer><!-- .entry-meta -->
+	<hr class="section-divider">
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-689" class="post-689 post type-post status-publish format-standard hentry category-family category-rant tag-one tag-two tag-puppy">
+	<header class="entry-header page-header">
+
+		<a href="index.html?p=689" title="Merry Christmas"></a>
+
+		<h1 class="entry-title"><a href="index.html?p=689" rel="bookmark">Merry Christmas</a></h1>
+
+				<div class="entry-meta">
+			<span class="posted-on"><i class="fa fa-calendar"></i> <a href="index.html?p=689" rel="bookmark"><time class="entry-date published" datetime="2015-12-26T18:17:33+00:00">December 26, 2015</time><time class="updated" datetime="2015-12-26T18:24:07+00:00">December 26, 2015</time></a></span><span class="byline"> <i class="fa fa-user"></i> <span class="author vcard"><a class="url fn n" href="index.html?author=1">Brandyoldfashion</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+
+					<p>Twas the night before Christmas, and all through the house<br />
+Not a screen was illumined, no keyboards or mouse.<br />
+The stockings and lights are still packed away<br />
+No one had money to fund a display.<br />
+The children are gone in their cars as they went<br />
+My dreams were disrupted [so fast as they spent] [by D and B]<br />
+As they left me alone all snuggled in bed<br />
+They made enough noise to wake up the dead.<br />
+When up on the roof I heard such a clatter,<br />
+It&#8217;s only the squirrels, they&#8217;ve gotten much fatter.<br />
+The moon has stopped shining sixteen hours ago,<br />
+For I stayed up late with my laptop aglow.<br />
+There wasn&#8217;t a reason to wake up on time.<br />
+No presents were wrapped, I haven&#8217;t a dime.<br />
+The cats thought the day should be special indeed,<br />
+They left me some puke, &#8220;Oh that&#8217;s what I need!&#8221;<br />
+I went back to bed, and Zero came with.<br />
+And all day we sat, the whole twenty-fifth.<br />
+So all of you people on facebook I see<br />
+With your happy kids smiling and such lovely trees,<br />
+I&#8217;m here all alone with no one in sight,<br />
+I may as well go to bed for the night.</p>
+<div class="addtoany_share_save_container addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_5"><a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fwww.brandyborges.com%2F%3Fp%3D689&amp;linkname=Merry%20Christmas" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fwww.brandyborges.com%2F%3Fp%3D689&amp;linkname=Merry%20Christmas" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fwww.brandyborges.com%2F%3Fp%3D689&amp;linkname=Merry%20Christmas" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_button_pinterest" href="http://www.addtoany.com/add_to/pinterest?linkurl=http%3A%2F%2Fwww.brandyborges.com%2F%3Fp%3D689&amp;linkname=Merry%20Christmas" title="Pinterest" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a></div></div>		
+			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta">
+								<span class="cat-links"><i class="fa fa-folder-open-o"></i>
+				 <a href="index.html?cat=13" rel="category">Family Dynamic</a>, <a href="index.html?cat=17" rel="category">Rant</a>			</span>
+			
+						<span class="tags-links"><i class="fa fa-tags"></i>
+				 <a href="index.html?tag=one" rel="tag">One</a>, <a href="index.html?tag=two" rel="tag">Two</a>, <a href="index.html?tag=puppy" rel="tag">Zero</a>			</span>
+					
+		
+			</footer><!-- .entry-meta -->
+	<hr class="section-divider">
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-687" class="post-687 post type-post status-publish format-standard hentry category-diet">
+	<header class="entry-header page-header">
+
+		<a href="index.html?p=687" title="The Decent"></a>
+
+		<h1 class="entry-title"><a href="index.html?p=687" rel="bookmark">The Decent</a></h1>
+
+				<div class="entry-meta">
+			<span class="posted-on"><i class="fa fa-calendar"></i> <a href="index.html?p=687" rel="bookmark"><time class="entry-date published" datetime="2015-12-17T19:46:11+00:00">December 17, 2015</time></a></span><span class="byline"> <i class="fa fa-user"></i> <span class="author vcard"><a class="url fn n" href="index.html?author=1">Brandyoldfashion</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+
+					<p>I&#8217;m on the way down again. The last dip wasn&#8217;t too long ago. I usually live more time on the inclines.<br />
+It&#8217;s just that I&#8217;m so lonely.<br />
+Also, it doesn&#8217;t feel like Christmas. There&#8217;s no tree and no lights and no presents. There is no celebration. Nothing&#8230;<br />
+I just either sit in this bed, or drive with the boys to their activities or appointments.<br />
+I have no support from family, no close friends (proximity) and ungrateful children.<br />
+Maybe 2016 will be better.</p>
+<div class="addtoany_share_save_container addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_6"><a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fwww.brandyborges.com%2F%3Fp%3D687&amp;linkname=The%20Decent" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fwww.brandyborges.com%2F%3Fp%3D687&amp;linkname=The%20Decent" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fwww.brandyborges.com%2F%3Fp%3D687&amp;linkname=The%20Decent" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_button_pinterest" href="http://www.addtoany.com/add_to/pinterest?linkurl=http%3A%2F%2Fwww.brandyborges.com%2F%3Fp%3D687&amp;linkname=The%20Decent" title="Pinterest" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a></div></div>		
+			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta">
+								<span class="cat-links"><i class="fa fa-folder-open-o"></i>
+				 <a href="index.html?cat=1" rel="category">Diet</a>			</span>
+			
+					
+		
+			</footer><!-- .entry-meta -->
+	<hr class="section-divider">
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-682" class="post-682 post type-post status-publish format-standard hentry category-diet tag-food tag-health">
+	<header class="entry-header page-header">
+
+		<a href="index.html?p=682" title="I&#8217;m Going to do It!"></a>
+
+		<h1 class="entry-title"><a href="index.html?p=682" rel="bookmark">I&#8217;m Going to do It!</a></h1>
+
+				<div class="entry-meta">
+			<span class="posted-on"><i class="fa fa-calendar"></i> <a href="index.html?p=682" rel="bookmark"><time class="entry-date published" datetime="2015-12-12T10:31:21+00:00">December 12, 2015</time></a></span><span class="byline"> <i class="fa fa-user"></i> <span class="author vcard"><a class="url fn n" href="index.html?author=1">Brandyoldfashion</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+
+					<p>I&#8217;m going to get back to the weight I was last year at this time. I&#8217;ve gained 20 lbs!!!<br />
+It&#8217;s unacceptable. I could list all of my excuses&#8230;<br />
+&#8211; Food that you get at food pantries isn&#8217;t the healthiest<br />
+&#8211; The boys have been buying junk food<br />
+&#8211; I am in bed A LOT<br />
+&#8211; I&#8217;m not allowed to exercise unless it&#8217;s in water<br />
+&#8211; My most recent fall produced a sprained (and maybe broken??) ankle so I&#8217;ve had to rest even MORE</p>
+<p>But I&#8217;m going to do it. Today is the start. I&#8217;m going to be tough and start losing today. I felt better; I liked how I looked; My clothes fit better.<br />
+I&#8217;m going to pick myself up do this. I AM going to do this.</p>
+<div class="addtoany_share_save_container addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_7"><a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fwww.brandyborges.com%2F%3Fp%3D682&amp;linkname=I%E2%80%99m%20Going%20to%20do%20It%21" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fwww.brandyborges.com%2F%3Fp%3D682&amp;linkname=I%E2%80%99m%20Going%20to%20do%20It%21" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fwww.brandyborges.com%2F%3Fp%3D682&amp;linkname=I%E2%80%99m%20Going%20to%20do%20It%21" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_button_pinterest" href="http://www.addtoany.com/add_to/pinterest?linkurl=http%3A%2F%2Fwww.brandyborges.com%2F%3Fp%3D682&amp;linkname=I%E2%80%99m%20Going%20to%20do%20It%21" title="Pinterest" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a></div></div>		
+			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta">
+								<span class="cat-links"><i class="fa fa-folder-open-o"></i>
+				 <a href="index.html?cat=1" rel="category">Diet</a>			</span>
+			
+						<span class="tags-links"><i class="fa fa-tags"></i>
+				 <a href="index.html?tag=food" rel="tag">Food</a>, <a href="index.html?tag=health" rel="tag">Health</a>			</span>
+					
+		
+			</footer><!-- .entry-meta -->
+	<hr class="section-divider">
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-679" class="post-679 post type-post status-publish format-standard hentry category-health tag-health tag-three">
+	<header class="entry-header page-header">
+
+		<a href="index.html?p=679" title="Another Bump"></a>
+
+		<h1 class="entry-title"><a href="index.html?p=679" rel="bookmark">Another Bump</a></h1>
+
+				<div class="entry-meta">
+			<span class="posted-on"><i class="fa fa-calendar"></i> <a href="index.html?p=679" rel="bookmark"><time class="entry-date published" datetime="2015-12-05T22:04:12+00:00">December 5, 2015</time></a></span><span class="byline"> <i class="fa fa-user"></i> <span class="author vcard"><a class="url fn n" href="index.html?author=1">Brandyoldfashion</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+
+					<p>I feel so bad for Three. He&#8217;s got so many aches and pains. I&#8217;m always quick to remind him that I hurt too and I don&#8217;t give up. I encourage him to just go a little further, walk for a few more minutes, push himself just a little more. Most days he just takes his pain pill and does his best.<br />
+His heels have been hurting on and off for a few years now. I&#8217;ve brought him to the Urgent Care twice because he&#8217;s not been able to walk and they take x-rays and there is nothing. I&#8217;ve gone to our Rheumotologist who sent us to a pediatric specialist. They found nothing also.<br />
+Then his heels hurt again and it was really bad this time. He missed almost a week of school because the nurse keep calling me to come pick him up&#8230; he couldn&#8217;t walk. So I made an appointment with his new Pediatrician. He poked around on Three&#8217;s heels and he thought he knew what it was. He sent Three to an orthopedic specialist to confirm.<br />
+Three has something called Sever&#8217;s Disease. It&#8217;s like Osgood-Schlatter&#8217;s but with the Achilles tendon and it hurts a lot more. It happens during a growth spurt when the bone grows faster than the tendons. There is nothing we can do but to ice his heels when it does hurt, and Three is not to push activity so that he doesn&#8217;t aggravate it. He already has a note for school from the doctor explaining his diagnosis so he may take a break in PE when he needs to. I didn&#8217;t have the doctor write another note about this heels since he&#8217;s already allowed a break when he needs one.<br />
+It&#8217;s so hard watching my children go through such pain. It&#8217;s the thing I cried about the most when I found out my diagnosis and that it&#8217;s hereditary.<br />
+We just get up each day and be positive. We take one day at a time, one moment at a time; we rest when we need to and then get going again.<br />
+Just one day at a time&#8230;.</p>
+<div class="addtoany_share_save_container addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_8"><a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fwww.brandyborges.com%2F%3Fp%3D679&amp;linkname=Another%20Bump" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fwww.brandyborges.com%2F%3Fp%3D679&amp;linkname=Another%20Bump" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fwww.brandyborges.com%2F%3Fp%3D679&amp;linkname=Another%20Bump" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_button_pinterest" href="http://www.addtoany.com/add_to/pinterest?linkurl=http%3A%2F%2Fwww.brandyborges.com%2F%3Fp%3D679&amp;linkname=Another%20Bump" title="Pinterest" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a></div></div>		
+			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta">
+								<span class="cat-links"><i class="fa fa-folder-open-o"></i>
+				 <a href="index.html?cat=14" rel="category">Health Issues</a>			</span>
+			
+						<span class="tags-links"><i class="fa fa-tags"></i>
+				 <a href="index.html?tag=health" rel="tag">Health</a>, <a href="index.html?tag=three" rel="tag">Three</a>			</span>
+					
+		
+			</footer><!-- .entry-meta -->
+	<hr class="section-divider">
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-676" class="post-676 post type-post status-publish format-standard hentry category-misc tag-faith">
+	<header class="entry-header page-header">
+
+		<a href="index.html?p=676" title="Amish"></a>
+
+		<h1 class="entry-title"><a href="index.html?p=676" rel="bookmark">Amish</a></h1>
+
+				<div class="entry-meta">
+			<span class="posted-on"><i class="fa fa-calendar"></i> <a href="index.html?p=676" rel="bookmark"><time class="entry-date published" datetime="2015-12-05T21:36:43+00:00">December 5, 2015</time></a></span><span class="byline"> <i class="fa fa-user"></i> <span class="author vcard"><a class="url fn n" href="index.html?author=1">Brandyoldfashion</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+
+					<p>I had the opportunity to be with Amish for a few hours this past week. I&#8217;ve seen things on TV about them, I&#8217;ve read about them; I&#8217;ve always been curious.<br />
+They were a father and mother of 6 kids, 4 girls and 2 boys.<br />
+I really had no expectations, but by the end of the couple hours, I would call us friends. He had questions for me, I had questions for them and we spent most of the time just chatting away. We sang a couple hymns that we both knew and they sang one that I didn&#8217;t. I found out that they don&#8217;t waste anything. They&#8217;re not afraid to ask for thing that others would throw out. The mom used to be an Amish school teacher and now their 2 oldest daughters are. He told me that he respects me for not quitting and raising my boys to be well behaved and that I make sure we get to church as much as we can. I told him that I respect him raising his family a step farther away from Satan&#8217;s temptations. He was sure to remind me that Satan is everywhere, and that there are still temptations.<br />
+If given the opportunity, I&#8217;d love to spend some more time with them. We may not have the same title on earth, but we&#8217;ll be in Heaven together, and that makes us family in Christ.</p>
+<div class="addtoany_share_save_container addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_9"><a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fwww.brandyborges.com%2F%3Fp%3D676&amp;linkname=Amish" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fwww.brandyborges.com%2F%3Fp%3D676&amp;linkname=Amish" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fwww.brandyborges.com%2F%3Fp%3D676&amp;linkname=Amish" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_button_pinterest" href="http://www.addtoany.com/add_to/pinterest?linkurl=http%3A%2F%2Fwww.brandyborges.com%2F%3Fp%3D676&amp;linkname=Amish" title="Pinterest" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a></div></div>		
+			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta">
+								<span class="cat-links"><i class="fa fa-folder-open-o"></i>
+				 <a href="index.html?cat=18" rel="category">Miscellaneous</a>			</span>
+			
+						<span class="tags-links"><i class="fa fa-tags"></i>
+				 <a href="index.html?tag=faith" rel="tag">Faith</a>			</span>
+					
+		
+			</footer><!-- .entry-meta -->
+	<hr class="section-divider">
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-674" class="post-674 post type-post status-publish format-standard hentry category-family category-projects tag-family tag-one">
+	<header class="entry-header page-header">
+
+		<a href="index.html?p=674" title="No Room in the Inn"></a>
+
+		<h1 class="entry-title"><a href="index.html?p=674" rel="bookmark">No Room in the Inn</a></h1>
+
+				<div class="entry-meta">
+			<span class="posted-on"><i class="fa fa-calendar"></i> <a href="index.html?p=674" rel="bookmark"><time class="entry-date published" datetime="2015-12-05T21:27:14+00:00">December 5, 2015</time><time class="updated" datetime="2015-12-05T21:37:37+00:00">December 5, 2015</time></a></span><span class="byline"> <i class="fa fa-user"></i> <span class="author vcard"><a class="url fn n" href="index.html?author=1">Brandyoldfashion</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+
+					<p>My little house wasn&#8217;t big enough. One built himself a bedroom.<br />
+Post found under projects, <a href="index.html?p=659">HERE</a></p>
+<div class="addtoany_share_save_container addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_10"><a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fwww.brandyborges.com%2F%3Fp%3D674&amp;linkname=No%20Room%20in%20the%20Inn" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fwww.brandyborges.com%2F%3Fp%3D674&amp;linkname=No%20Room%20in%20the%20Inn" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fwww.brandyborges.com%2F%3Fp%3D674&amp;linkname=No%20Room%20in%20the%20Inn" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_button_pinterest" href="http://www.addtoany.com/add_to/pinterest?linkurl=http%3A%2F%2Fwww.brandyborges.com%2F%3Fp%3D674&amp;linkname=No%20Room%20in%20the%20Inn" title="Pinterest" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a></div></div>		
+			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta">
+								<span class="cat-links"><i class="fa fa-folder-open-o"></i>
+				 <a href="index.html?cat=13" rel="category">Family Dynamic</a>, <a href="index.html?cat=16" rel="category">Projects</a>			</span>
+			
+						<span class="tags-links"><i class="fa fa-tags"></i>
+				 <a href="index.html?tag=family" rel="tag">Family</a>, <a href="index.html?tag=one" rel="tag">One</a>			</span>
+					
+		
+			</footer><!-- .entry-meta -->
+	<hr class="section-divider">
+</article><!-- #post-## -->
+
+			
+				<nav class="navigation paging-navigation" role="navigation">
+		<h1 class="screen-reader-text">Posts navigation</h1>
+		<div class="nav-links">
+
+						<div class="nav-previous"> <a href="index.html?author=1&amp;paged=2" ><i class="fa fa-chevron-left"></i> Older posts</a></div>
+			
+			
+		</div><!-- .nav-links -->
+	</nav><!-- .navigation -->
+	
+		
+		</main><!-- #main -->
+	</section><!-- #primary -->
+
+	<div id="secondary" class="widget-area col-sm-12 col-md-4" role="complementary">
+				<aside id="search-5" class="widget widget_search"><form role="search" method="get" class="search-form form-inline" action="index.html">
+  <label class="sr-only">Search for:</label>
+  <div class="input-group">
+    <input type="search" value="" name="s" class="search-field form-control" placeholder="Search...">
+    <span class="input-group-btn">
+      <button type="submit" class="search-submit btn btn-primary"><span class="glyphicon glyphicon-search"></span></button>
+    </span>
+  </div>
+</form>
+</aside><aside id="archives-5" class="widget widget_archive"><h3 class="widget-title">Archives</h3>		<ul>
+			<li><a href='index.html?m=201603'>March 2016</a>&nbsp;(1)</li>
+	<li><a href='index.html?m=201602'>February 2016</a>&nbsp;(3)</li>
+	<li><a href='index.html?m=201512'>December 2015</a>&nbsp;(8)</li>
+	<li><a href='index.html?m=201511'>November 2015</a>&nbsp;(2)</li>
+	<li><a href='index.html?m=201510'>October 2015</a>&nbsp;(4)</li>
+	<li><a href='index.html?m=201509'>September 2015</a>&nbsp;(7)</li>
+	<li><a href='index.html?m=201508'>August 2015</a>&nbsp;(7)</li>
+	<li><a href='index.html?m=201507'>July 2015</a>&nbsp;(4)</li>
+	<li><a href='index.html?m=201506'>June 2015</a>&nbsp;(8)</li>
+	<li><a href='index.html?m=201505'>May 2015</a>&nbsp;(21)</li>
+	<li><a href='index.html?m=201504'>April 2015</a>&nbsp;(12)</li>
+	<li><a href='index.html?m=201503'>March 2015</a>&nbsp;(2)</li>
+	<li><a href='index.html?m=200008'>August 2000</a>&nbsp;(19)</li>
+	<li><a href='index.html?m=200005'>May 2000</a>&nbsp;(21)</li>
+	<li><a href='index.html?m=200001'>January 2000</a>&nbsp;(63)</li>
+	<li><a href='index.html?m=199912'>December 1999</a>&nbsp;(4)</li>
+		</ul>
+		</aside><aside id="polls-widget-3" class="widget widget_polls-widget"><div id="polls-2" class="wp-polls">
+	<form id="polls_form_2" class="wp-polls-form" action="http://www.brandyborges.com/index.php" method="post">
+		<p style="display: none;"><input type="hidden" id="poll_2_nonce" name="wp-polls-nonce" value="1c18bf2680" /></p>
+		<p style="display: none;"><input type="hidden" name="poll_id" value="2" /></p>
+		<p style="text-align: center;"><strong>How old were you when you had your first child?</strong></p><div id="polls-2-ans" class="wp-polls-ans"><ul class="wp-polls-ul">
+		<li><input type="radio" id="poll-answer-6" name="poll_2" value="6" /> <label for="poll-answer-6">18 - 23</label></li>
+		<li><input type="radio" id="poll-answer-7" name="poll_2" value="7" /> <label for="poll-answer-7">24 - 29</label></li>
+		<li><input type="radio" id="poll-answer-8" name="poll_2" value="8" /> <label for="poll-answer-8">30 - 31</label></li>
+		</ul><p style="text-align: center;"><input type="button" name="vote" value="   Vote   " class="Buttons" onclick="poll_vote(2);" /></p><p style="text-align: center;"><a href="index.html?author=1#ViewPollResults" onclick="poll_result(2); return false;" title="View Results Of This Poll">View Results</a></p></div>
+	</form>
+</div>
+<div id="polls-2-loading" class="wp-polls-loading"><img src="wp-content/plugins/wp-polls/images/loading.gif" width="16" height="16" alt="Loading ..." title="Loading ..." class="wp-polls-image" />&nbsp;Loading ...</div>
+</aside><aside id="tag_cloud-3" class="widget widget_tag_cloud"><h3 class="widget-title">Tags</h3><div class="tagcloud"><a href='index.html?tag=bible' class='tag-link-21' title='2 topics' style='font-size: 9.5460122699387pt;'>Bible</a>
+<a href='index.html?tag=brice' class='tag-link-33' title='3 topics' style='font-size: 10.576687116564pt;'>Brice</a>
+<a href='index.html?tag=cats' class='tag-link-9' title='2 topics' style='font-size: 9.5460122699387pt;'>Cats</a>
+<a href='index.html?tag=cede' class='tag-link-27' title='19 topics' style='font-size: 16.588957055215pt;'>Cede</a>
+<a href='index.html?tag=childhood-poem' class='tag-link-37' title='84 topics' style='font-size: 22pt;'>Childhood Poem</a>
+<a href='index.html?tag=church' class='tag-link-44' title='1 topic' style='font-size: 8pt;'>Church</a>
+<a href='index.html?tag=diet' class='tag-link-23' title='1 topic' style='font-size: 8pt;'>Diet</a>
+<a href='index.html?tag=doctors' class='tag-link-20' title='6 topics' style='font-size: 12.723926380368pt;'>Doctors</a>
+<a href='index.html?tag=dragonfly' class='tag-link-42' title='2 topics' style='font-size: 9.5460122699387pt;'>Dragonfly</a>
+<a href='index.html?tag=faith' class='tag-link-22' title='13 topics' style='font-size: 15.300613496933pt;'>Faith</a>
+<a href='index.html?tag=family' class='tag-link-19' title='31 topics' style='font-size: 18.39263803681pt;'>Family</a>
+<a href='index.html?tag=food' class='tag-link-40' title='3 topics' style='font-size: 10.576687116564pt;'>Food</a>
+<a href='index.html?tag=friend' class='tag-link-36' title='2 topics' style='font-size: 9.5460122699387pt;'>Friend</a>
+<a href='index.html?tag=grandma' class='tag-link-34' title='2 topics' style='font-size: 9.5460122699387pt;'>Grandma</a>
+<a href='index.html?tag=health' class='tag-link-6' title='20 topics' style='font-size: 16.760736196319pt;'>Health</a>
+<a href='index.html?tag=idiots' class='tag-link-30' title='2 topics' style='font-size: 9.5460122699387pt;'>Idiots</a>
+<a href='index.html?tag=loneliness' class='tag-link-39' title='8 topics' style='font-size: 13.58282208589pt;'>Loneliness</a>
+<a href='index.html?tag=mr-right' class='tag-link-41' title='3 topics' style='font-size: 10.576687116564pt;'>Mr. Right</a>
+<a href='index.html?tag=one' class='tag-link-25' title='13 topics' style='font-size: 15.300613496933pt;'>One</a>
+<a href='index.html?tag=projects' class='tag-link-31' title='5 topics' style='font-size: 12.122699386503pt;'>Projects</a>
+<a href='index.html?tag=puppy-love' class='tag-link-35' title='11 topics' style='font-size: 14.699386503067pt;'>Puppy Love</a>
+<a href='index.html?tag=rose-colored-glasses' class='tag-link-4' title='2 topics' style='font-size: 9.5460122699387pt;'>Rose colored glasses</a>
+<a href='index.html?tag=rug' class='tag-link-29' title='7 topics' style='font-size: 13.153374233129pt;'>Rug</a>
+<a href='index.html?tag=ssi' class='tag-link-7' title='4 topics' style='font-size: 11.435582822086pt;'>SSI</a>
+<a href='index.html?tag=three' class='tag-link-26' title='12 topics' style='font-size: 14.957055214724pt;'>Three</a>
+<a href='index.html?tag=tina' class='tag-link-45' title='1 topic' style='font-size: 8pt;'>tina</a>
+<a href='index.html?tag=two' class='tag-link-5' title='11 topics' style='font-size: 14.699386503067pt;'>Two</a>
+<a href='index.html?tag=puppy' class='tag-link-32' title='9 topics' style='font-size: 14.01226993865pt;'>Zero</a></div>
+</aside><aside id="categories-3" class="widget widget_categories"><h3 class="widget-title">Categories</h3>		<ul>
+	<li class="cat-item cat-item-1"><a href="index.html?cat=1" >Diet</a> (6)
+</li>
+	<li class="cat-item cat-item-13"><a href="index.html?cat=13" >Family Dynamic</a> (41)
+</li>
+	<li class="cat-item cat-item-14"><a href="index.html?cat=14" >Health Issues</a> (19)
+</li>
+	<li class="cat-item cat-item-18"><a href="index.html?cat=18" >Miscellaneous</a> (8)
+</li>
+	<li class="cat-item cat-item-15"><a href="index.html?cat=15" >My Faith</a> (6)
+</li>
+	<li class="cat-item cat-item-24"><a href="index.html?cat=24" >Poetry</a> (107)
+</li>
+	<li class="cat-item cat-item-16"><a href="index.html?cat=16" >Projects</a> (4)
+</li>
+	<li class="cat-item cat-item-17"><a href="index.html?cat=17" >Rant</a> (13)
+</li>
+		</ul>
+</aside><aside id="countperday_widget-4" class="widget widget_countperday_widget"><h3 class="widget-title">Count per Day</h3><ul class="cpd"><li class="cpd-l"><span id="cpd_number_getreadsall" class="cpd-r">3759</span>Total reads:</li></ul></aside>	</div><!-- #secondary -->
+	</div><!-- #content -->
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="site-info container">
+			<div class="row">
+				<nav role="navigation" class="col-md-6">
+					<ul id="menu-top-menu-1" class="nav footer-nav clearfix"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-97"><a href="index.html">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-90"><a href="index.html?page_id=81">Blog Posts</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-91"><a href="index.html?p=27">Family Dynamic</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92"><a href="index.html?p=35">Health Issues</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93"><a href="index.html?p=20">My Faith</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118"><a href="index.html?p=116">Poetry</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-94"><a href="index.html?p=38">Projects</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-673"><a href="index.html?p=659">A New Room</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-629"><a href="index.html?p=626">End Table</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-212"><a href="index.html?p=208">Wind Chimes</a></li>
+</ul>
+</li>
+</ul>				</nav>
+
+				<div class="copyright col-md-6">
+										<a href="index.html" title="One Day at a Time">One Day at a Time</a>.  All rights reserved.					<a href="http://colorlib.com/wp/unite" title="Unite Theme" target="_blank">Unite Theme</a> powered by <a href="http://wordpress.org" title="WordPress" target="_blank">WordPress</a>.				</div>
+			</div>
+		</div><!-- .site-info -->
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+
+<script type="text/javascript"><!--
+wpa2a.targets=[
+{title:"Disgust",url:"http://www.brandyborges.com/?p=711"},
+{title:"Sleep, Anger and French Toast",url:"http://www.brandyborges.com/?p=707"},
+{title:"Protected: Zombies",url:"http://www.brandyborges.com/?p=703"},
+{title:"STOP TELLING ME WHO I AM!",url:"http://www.brandyborges.com/?p=695"},
+{title:"Merry Christmas",url:"http://www.brandyborges.com/?p=689"},
+{title:"The Decent",url:"http://www.brandyborges.com/?p=687"},
+{title:"I\u2019m Going to do It!",url:"http://www.brandyborges.com/?p=682"},
+{title:"Another Bump",url:"http://www.brandyborges.com/?p=679"},
+{title:"Amish",url:"http://www.brandyborges.com/?p=676"},
+{title:"No Room in the Inn",url:"http://www.brandyborges.com/?p=674"}];
+wpa2a.html_done=true;if(wpa2a.script_ready&&!wpa2a.done)wpa2a.init();wpa2a.script_load();
+//--></script>
+<!-- Custom Facebook Feed JS -->
+<script type="text/javascript">
+var cfflinkhashtags = "true";
+</script>
+<script type='text/javascript' src='wp-content/plugins/custom-facebook-feed/js/cff-scripts.js?ver=2.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sb_instagram_js_options = {"sb_instagram_at":"1487177977.97584da.32a26cd6b1584e348ae74b39d08ee3df"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='wp-content/plugins/instagram-feed/js/sb-instagram.js?ver=1.3.11'></script>
+<script type='text/javascript' src='wp-content/plugins/simple-share-buttons-adder/js/ssba.min.js?ver=4.4.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pollsL10n = {"ajax_url":"http:\/\/www.brandyborges.com\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='wp-content/plugins/wp-polls/polls-js.js?ver=2.72'></script>
+<script type='text/javascript' src='wp-includes/js/wp-embed.min.js?ver=4.4.2'></script>
+
+</body>
+</html>
