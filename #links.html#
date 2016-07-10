@@ -1,0 +1,205 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta name="resource-type" content="document"/>
+<meta name="generator" content="Bluefish 2.2.5" />
+<meta name="revisit-after" content="10"/>
+<meta name="classification" content="Design"/>
+<meta name="description" content="My name is Scott and I'm Chemically Injured"/>
+<meta name="keywords" content="MCS, TILT, Chemically, Injured, Illinois"/>
+<meta name="robots" content="ALL"/>
+<meta name="distribution" content="Local"/>
+<meta name="rating" content="General"/>
+<meta name="copyright" content="2016"/>
+<meta name="author" content="Scott Swank" />
+<meta http-equiv="Content-Language" content="English"/>
+<title>Chemically Injured</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+<link href="css/styles.css" rel="stylesheet" type="text/css"/>
+
+</head>
+<body>
+    <div id="header">    
+        <div style="float: left; width: 551px; height: 118px">
+            <a href="index.html"><img src="images/headera.png" border="0"></a></div>
+        <div style="float: left; width: 449px; height: 118px;">             
+            <div style="float: left; width: 123px;"><a href="index.html"
+					onMouseOver="document.homeDisplay.src=homeOver.src"
+					onMouseOut="document.homeDisplay.src=home.src"><img
+						name="homeDisplay"
+						align="left"
+						src="images/home.png"
+						alt="Home"
+						border="0" /></a></div>
+                        
+            <div style="float: left; width: 129px;"><a href="about.html"
+					onMouseOver="document.aboutDisplay.src=aboutOver.src"
+					onMouseOut="document.aboutDisplay.src=about.src"><img
+						name="aboutDisplay"
+						align="left"
+						src="images/about.png"
+						alt="About MCS"
+						border="0" /></a></div>
+                        
+            <div style="float: left; width: 92px;"><a href="links.html"
+					onMouseOver="document.linkingDisplay.src=linkingOver.src"
+					onMouseOut="document.linkingDisplay.src=linking.src"><img
+						name="linkingDisplay"
+						align="left"
+						src="images/linking.png"
+						alt="Links"
+						border="0" /></a></div>
+                        
+            <div style="float: left; width: 105px;"><a href="contact.html"
+					onMouseOver="document.contactDisplay.src=contactOver.src"
+					onMouseOut="document.contactDisplay.src=contact.src"><img
+						name="contactDisplay"
+						align="left"
+						src="images/contact.png"
+						alt="Contact"
+						border="0" /></a></div>        
+        </div>
+    </div>
+    <div id="yellowline"></div>
+    <div id="homecontent">
+        <div style="padding: 40px 10px 30px 10px;">
+            <div style="float: left; width: 300px; margin-right: 30px; background-color: #f1ece5;">
+                <div style="text-align: left; padding: 20px;">
+            
+                    <a  href="http://www.cancer.gov/publications/dictionaries/cancer-terms?cdrid=687391" target="_blank">Toxicants that cause cancer</a><br /><br />
+                    
+                    <a href="http://www.ei-resource.org/illness-information/environmental-illnesses/multiple-chemical-sensitivity/" target="_blank">Overview of MCS</a><br /><br />
+                    
+                    <a href="http://peggymunson.com/mcs/myths.html" target="_blank">Myths and Facts about MCS</a><br /><br />
+                    
+                    <a href="https://www.flickr.com/photos/41565963@N04/" target="_blank">My Flcker page</a><br /><br />
+                    
+                    <a href="pictures.html" target="_blank">A picture is worth 1,000 words</a><br /><br />
+                    
+                    <a href="http://www.butyoudontlooksick.com/articles/written-by-christine/the-spoon-theory/" target="_blank">What is the "Spoon Theory"?</a><br /><br />
+                    
+                    
+                    
+                </div>
+            </div>
+            <div style="float: left; width: 650px;">
+                <img src="images/linkstitle.png"/><br />
+                
+					<h2>Laughter helps.</h2>                
+                <p> <a href="http://www.gcfl.net/archive.php?funny=7290" target="_blank" >No pets allowed</a></p>
+                <br/><br/>
+            
+              <h1>News links</h1>
+              <br/>
+         <p><h2>Mentions in video</h2></p>
+            <ul>MCS was actually on a <a href="http://www.tvacres.com/diseases_ailments_multiple.htm" target="_blank">Northern Exposure</a> episode.</ul>
+		<ul>Do you think this <a href="https://stinkmovie.com/" target="_blank">movie</a> will be in theatres?</ul>
+		<br/>
+	<p><h2>Articles about MCS and other hidden illnesses</h2></p>
+		<ul>Discover Magazine has an <a href="http://discovermagazine.com/2013/nov/13-allergic-life">article</a> on MCS/TILT from the November 2013 issue.</ul>
+		<ul>25 <a href="http://themighty.com/2016/02/25-secrets-of-people-with-chronic-illnesses/" target="_blank">secrets</a> of the chronically ill.</ul>
+		<ul>A new European car caused a researcher <a href="http://the-labyrinth.com/2016/02/07/even-research-scientist-dr-geoffrey-evens-suffers-with-mcs-like-symptoms-with-new-cars/" target="_blank">distress.</a></ul>
+		<ul>An article about <a href="http://www.communitynewscommons.org/our-city/education/hidden-in-plain-view-disabled-but-not-seen/" target="_blank">people with hidden disabilities</a> disappearing in a community</ul>
+		<ul>An article where people describe what it is like to have an <a href="http://themighty.com/2016/02/19-people-with-invisible-illnesses-describe-what-it-feels-like-to-be-invisible/" target="_blank">invisible illness.</a></ul>	
+		<ul>How do you describe <a href="http://themighty.com/2016/02/28-people-with-chronic-illness-explain-what-brain-fog-feels-like-to-them/" target="_blank">brain fog?</a></ul>	<br/>
+	<p><h1>Toxins in our lives</h1></p>
+	<p><h2>General life</h2></p>
+		<ul>The problem is so embedded in our lives that <a href="http://www.nytimes.com/2015/11/29/opinion/sunday/contaminating-our-bodies-with-everyday-products.html?_r=2" target="_blank">babies</a> are being born with pollutants in their system.</ul>
+		<ul>Some people are beginning to <a href="https://lindasepp.wordpress.com/2016/02/02/conceptual-breakthrough-regarding-the-chemicals-were-stewing-in/" target="_target">get</a> it.</ul>
+		<ul>This man found out about <a href="http://qz.com/607454/how-a-baseball-sized-tumor-woke-me-up-to-the-dangers-of-everyday-chemicals/" target="_blank">toxic chemicals</a> the hard way.</ul>		
+		<ul>Interesting study on how <a href="http://www.chgeharvard.org/resource/impact-green-buildings-cognitive-function" target="_blank">air quality</a> affects cognition.</ul> 
+		
+		<ul>A <a href="http://science.sciencemag.org/content/351/6278/1117.full" target="_blank">Science article</a> on toxins in our lives.</ul>
+		</br>
+	<p><h2>Common Products</h2></p>
+		<ul>Johnson & Johnson is going to stop putting <a href="http://www.healthyfoodhouse.com/johnson-johnson-admits-our-baby-products-contain-cancer-causing-formaldehyde/" target="_blank">formaldehyde</a> into 100's of their products including baby products.</ul>
+   	<ul>Are manufacturers disclosing enough about their <a href="http://www.womensvoices.org/2016/02/12/questions-raised-about-sc-johnsons-commitment-to-transparency/" target="_blank">products?</a></ul>
+   	<ul>This <a href="http://www.theglobeandmail.com/life/health-and-fitness/health/thanks-to-lax-labelling-rules-canadians-dont-know-what-harmful-chemicals-lurk-in-household-cleaners/article28411743/" target="_blank">article</a> is based in Canada and they have stricter regulation than the USA.</ul>
+   	<ul>BPA classified as <a href="http://env-health.org/news/latest-news/article/bpa-classified-as-toxic" target="_blank">toxic.</a></ul> 
+   	<ul><a href="http://www.abc.net.au/news/2016-02-17/chemicals-pesticide-organophosphates-research-farmer-health/7175340#" target="_blank">Pesticides and Parkinson's?</a></ul>   
+   	<ul>Pesticides can <a href="http://www.panna.org/blog/its-true-pesticides-are-harming-our-children" target="_blank" >harm our children.</a></ul>
+   	<ul>Is <a href="http://www.healthnutnews.com/draft-fluoride-officially-classified-as-a-neurotoxin-in-worlds-most-prestigious-medical-journal/" target="_blank">flouride</a> poisoning you?</ul>
+		<ul>How dangerous are <a href="http://articles.mercola.com/sites/articles/archive/2016/05/31/roundup-inert-ingredients.aspx" target="_blank" >inert ingredients?</a></ul>   
+   	</br>
+   <p><h2>Chemical dependencies</h2></p>
+   	<ul>There are those of us who are injured by fragrances but there are <a href="https://multiplechemicalsensitivity.wordpress.com/2015/12/30/obsessive-fragrance-wearers/" target="_blank">others</a> who are apparently addicted to them.</ul>
+   </br>
+   <p><h2>The impact on our health</h2></p>
+   	<ul>Are people actually <a href="http://www.telegraph.co.uk/news/health/news/12166395/Secret-air-pollutants-in-our-homes-claim-thousands-of-lives.html" target="_blank">dying</a> from pollution in the home?</ul>
+		<ul>Pollutants are tied to lower <a href="http://www.ncbi.nlm.nih.gov/pubmed/20799984" target="_blank">Vitamin D3</a> levels.</ul>
+		<ul>Pollution levels are becoming a health concern in the <a href="http://www.bbc.com/news/health-35629034" target="_blank">UK</a></ul>
+		<ul>Interesting news about <a href="http://www.nature.com/articles/srep15015" target="_blank">Alzheimer's</a></ul>
+		
+		<ul>Dryer vents are a major source of <a href="http://www.drsteinemann.com/dryer_emissions.html" target="_blank">toxins.</a></ul>  
+		<ul>A story about the link between <a href="http://www.vox.com/2016/2/23/11094686/air-pollution-dementia" target="_blank">pollution and dementia.</a></ul> 
+		<ul>Indoor air pollution and <a href="http://www.aww.com.au/latest-news/news-stories/air-freshener-and-scented-candles-contribute-to-killer-indoor-air-pollution-25583" target="_blank">death.</a></ul>  
+		<ul><a href="http://leadsafeamerica.org/fluoride-and-lead/" target="_blank" >Fluoride </a> may be reacting to lead in plumbing causing you to be exposed to more lead in your water.</ul>
+		<ul>A CNN article on how common chemicals are increasing illness and <a href="http://www.cnn.com/2016/03/22/health/endometriosis-fibroids-phthalates-dde-costs/index.html" target="_blank" >healthcare costs.</a></ul>
+		<br/>
+  	<p><h2>Problems with common medications</h2></p>
+  		<ul><a href="http://www.realnatural.org/adhd-meds-linked-to-bone-density-loss-in-kids/" target="_blank">ADHD drugs</a> are being linked to health problems in children.</ul>	 
+  		
+	<br/>	
+	<p><h2>Health and beauty</h2></p>
+				<ul>Toxic <a href="http://www.phillymag.com/shoppist/2016/03/07/toxic-skincare-ingredients/#more-3080750" target="_blank">skin care</a> products.</ul>
+		<ul>EU <a href="http://www.treehugger.com/organic-beauty/teen-girls-chemical-exposure-quickly-plummets-after-switching-beauty-products.html" target="_blank">banned</a> chemicals used in common beauty products and their effects on teens.</ul>
+ 		<ul>The Average Woman Puts<a href="The Average Woman Puts 515 Synthetic Chemicals On Her Body Every Day Without Knowing" target="_blank"> 515 Synthetic Chemicals</a> On Her Body Every Day Without Knowing.</ul> 
+		<ul>A Time article about the <a href="http://time.com/4239561/johnson-and-johnson-toxic-ingredients/" target="_blank">article</a> about the dangerous substances in our personal care products.</ul> 
+		<ul>The French have posted a warning about <a href="http://www.thelocal.fr/20160222/french-told-to-avoid-185-cosmetic-products" target="_blank">185 cosmetic products.</a></ul>   
+		<ul>Here is a story about chemical injury in a beauty <a href="http://www.womensvoices.org/2016/02/09/moiras-story-fragrance-formaldehyde/" target="_blank">salon.</a></ul>
+		<ul>Time has another <a href="http://time.com/4254428/teens-could-be-at-risk-from-some-cosmetics/" target="_blank">article</a> on teens and cosmetics.</ul>  
+		<ul>An article about fragrances on <a href="http://www.salon.com/2016/02/03/one_sniff_is_all_it_takes_scented_household_products_are_making_us_sick_partner/" target="_blank">Salon.com.</a></ul>   
+		<ul>Do you know what you are <a href="http://www.watoxics.org/toxicswatch/whats-hot-in-kids-fashion-toxic-chemicals" target="_blank">dressing</a> your children in?</ul>
+		<ul>A good <a href="https://medium.com/@mkhezr/toxic-beauty-a-data-story-283270f111cf#.fd12iwemc" target="_blank" >video</a> about how how toxic comsetics can be.</ul>
+		<ul>Things to <a href="http://foodmatters.tv/content/high-price-of-beauty-17-ingredients-to-avoid-like-the-plague" target="_blank" >avoid</a> in beauty products.</ul>	
+	<br/>
+  <p><h2>What about Food?</h2></p>
+  		<ul>Foods we eat that are <a href="http://abcnews.go.com/Lifestyle/Food/11-foods-banned-us/story?id=19457237" target="_blank">banned</a> elsewhere</ul>	
+		<ul>What is in your <a href="https://www.washingtonpost.com/news/wonk/wp/2016/02/17/parmesan-cheese-is-not-what-it-seems/" target="_blank">cheese?</a></ul>
+		<ul><a href="http://www.laboratoryequipment.com/news/2015/12/processed-foods-linked-autoimmune-diseases" target="_blank">Foods</a> are causing problems as well.</ul>
+		<ul>A Times article about <a href="http://time.com/3722809/emulsifiers-guts-fat/" target="_blank">emulsifiers</a> in our food.</ul>
+	<br/>
+	<p><h2>Travel News</h2></p>
+		<ul>Hotel trade journal about guests with <a href="http://www.hotelnewsresource.com/article79118.html" target="_blank">MCS.</a></ul>
+		<ul><a href="http://apex.aero/2016/01/22/passenger-allergies-to-frangance" target="_blank">Some airports</a> are beginning to get it. Now if they can just get the planes to be less toxic.</ul>
+		<ul>Some <a href="http://www.slowtravels.com/2015/europe-travel-notes/fragrance-free-flights-please/">airlines</a> are actually making things worse.</ul>	
+	<br/>
+	<p><h2>Can we trust all scientists?</h2></p>
+		<ul><a href="http://www.publicintegrity.org/2016/02/08/19223/meet-rented-white-coats-who-defend-toxic-chemicals" target="_blank">Rented</a> white coats protect manufacturers from product liability.</ul>
+		<ul>Are scientific journals always <a href="http://www.publicintegrity.org/2016/02/18/19307/brokers-junk-science" target="_blank">unbiased?</a></ul>
+	<br/>	
+	<p><h2>Some positive steps</h2></p>
+		<ul>Here is an amazing <a href="http://www.treehugger.com/green-architecture/omega-center-sustainable-living-eco-machine-living-building-water-treatment.html" target="_blank">Wastewater</a> treatment plant that uses no toxic chemicals.</ul>
+            
+                 
+            <br /><br /><br />
+            </div>
+        </div>
+    </div>
+    <div style="clear: both;"></div>
+    <div id="yellowfooter">
+        <div style="width: 1000px; margin-right: auto; margin-left: auto;">
+            <div style="text-align: left; padding; 25px 0 0 70px;">
+                <br /><br />
+                &nbsp;&nbsp;&nbsp;&nbsp;<a href="index.html" class="footer">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                
+                <a href="about.html" class="footer">About</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                
+                <a href="links.html" class="footer">Links</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                
+                <a href="faq.html" class="footer">FAQs</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                
+                <a href="resources.html" class="footer">Resources</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                
+                <a href="pictures.html" class="footer">Pictures</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                
+                <a href="whatcan.html" class="footer">What Can I Do?</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                
+                <a href="contact.html" class="footer">Contact</a>            
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+

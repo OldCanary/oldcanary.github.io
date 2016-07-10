@@ -3,7 +3,7 @@
 <html>
 <head>
 <meta name="resource-type" content="document"/>
-<meta name="generator" content="Bluefish 2.2.5" />
+<meta name="generator" content="Bluefish 2.2.8" />
 <meta name="revisit-after" content="10"/>
 <meta name="classification" content="Design"/>
 <meta name="description" content="My name is Scott and I'm Chemically Injured"/>
@@ -95,7 +95,10 @@
 	   <ul><a href="fragrance.html">Fragrance</a> information. </ul>
       <ul><a href="work.html">Work</a> information. </ul>     
       <ul>Some <a href="healthyalternatives.html">Healthy</a> alternatives to common products with issues </ul>    
-      <ul><a href="food.html">Food and Drink</a> information. </ul>    
+      <ul><a href="food.html">Food and Drink</a> information. </ul> 
+      <ul><a href="nutrition.html" >Nutrition</a></ul>   
+      <ul><a href="exercise.html" >Exercise</a></ul>
+      <ul>Challenging <a href="wisdom.html" >conventional wisdom</a></ul>
             <br /><br /><br />
             </div>
         </div>
