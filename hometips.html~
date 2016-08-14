@@ -90,16 +90,11 @@
             	<br />           	
             	<img src="images/resources.jpg" alt="too much information">
             <br /><br /><br />
-            <p><h2>Suggested Resources</h2></p>
-		<ul><a href="books.html">Books</a> about MCS</ul>
-	   <ul><a href="fragrance.html">Fragrance</a> information. </ul>
-      <ul><a href="work.html">Work</a> information. </ul>     
-      <ul>Some <a href="healthyalternatives.html">Healthy</a> alternatives to common products with issues </ul>    
-      <ul><a href="food.html">Food and Drink</a> information. </ul> 
-      <ul><a href="hometips.html" >Home tips</a></ul>
-      <ul><a href="nutrition.html" >Nutrition</a></ul>   
-      <ul><a href="exercise.html" >Exercise</a></ul>
-      <ul>Challenging <a href="wisdom.html" >conventional wisdom</a></ul>
+            <p><h2>Home Tips</h2></p>
+		<ul>Grow your own <a href="http://theheartysoul.com/grow-organic-bananas/" target="_blank">Bananas</a></ul>
+		<ul>A better <a href="http://theheartysoul.com/essential-oil-repellent/" target="_blank" >bug repellent</a> </ul>
+		<ul>Surpising uses for <a href="http://www.naturallivingideas.com/15-surprising-uses-borax/" target="_blank" >borax</a></ul>
+		
             <br /><br /><br />
             </div>
         </div>
